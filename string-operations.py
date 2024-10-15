@@ -1,8 +1,13 @@
-greeting = "Hi, "
-name = "Alice"
+name="kiran 25 dev"
+age=20
 
-# print(greeting + name)  # Hi, Alice
-# print(greeting * 3)  # Hi, Hi, Hi,
+print("name",age)
+# print("Hello " + name+ " Have a good day")
+# print(greeting * 3)  
 
-# print(greeting, name)  # Hi,  Alice
-# print(greeting, name, sep="")  # Hi, Alice
+# print(greeting, name)  
+# print(name*3)  
+
+
+# "Hi I am Abhijith. I am 22 years old"
+

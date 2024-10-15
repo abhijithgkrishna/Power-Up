@@ -5,5 +5,6 @@
 # ****
 
 # Code:
-for i in range(1, 5):
+n = int(input("Num : "))
+for i in range(n):
     print("*" * i)

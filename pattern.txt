@@ -1,0 +1,10 @@
+ask the user for a number
+
+*
+**
+***
+****
+*****
+...
+..
+upto number
